@@ -1,5 +1,13 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" align="center"/>
+</div>
+<br/>
+
+## <div align="center">Hey there, I'm Prashan, an Android Developer👨‍💻, 🌟Tech Explorer Extraordinaire🚀.</div>
 # 💫 About Me:
-🌱 I’m currently learning Node.js<br><br>❓ Ask me about anything related to Android and related technologies<br><br>⚡ Fun fact: Programmers don't die, they just log out.
+
+🌱 Engaged with Kotlin and Node.js in my current endeavors.<br><br>
+❓ Curious about Android or its related technologies? Shoot your questions!<br><br>⚡ Fun fact: Programmers don't die, they just log out.
 
 
 ## 🌐 Socials:
